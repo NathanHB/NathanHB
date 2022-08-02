@@ -3,7 +3,7 @@
 I'm a sofwtare engineering student in Epita Paris, Specialized in Machine Learning and data science / engineering.
 I'm also part of the LRDE (Laboratoire de Recherche et Developemment de l'Epita.) where I focus on brain tumor segmentation using deep neural networks.
 
-- 🌱 curretnly learning MLOps and data engineering in depth.
+- 🌱 currently learning MLOps and data engineering in depth.
 
 Socials:
 - Twitter: [nathanhabib1011](https://twitter.com/nathanhabib1011)
