@@ -8,7 +8,7 @@ I'm also part of the LRDE (Laboratoire de Recherche et Developemment de l'Epita.
 Socials:
 - Twitter: [nathanhabib1011](https://twitter.com/nathanhabib1011)
 - Linkedin: [nathan-habib1907](https://www.linkedin.com/in/nathan-habib1907/)
-- Instagram: nathan_hb_
+- Instagram: [nathan_hb_](https://www.instagram.com/nathan_hb_/)
 - email: nathan.habib19@gmail.com
 
 
